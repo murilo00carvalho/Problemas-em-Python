@@ -16,7 +16,7 @@ Ele realiza:
 🔁 Reinício automático em caso de erro de digitação após 3 tentativas
 
 
- Tecnologias Utilizadas:
+Tecnologias Utilizadas:
 -Python
 - Google Colab (para testes e desenvolvimento)
 
