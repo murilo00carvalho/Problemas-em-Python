@@ -17,7 +17,8 @@ Ele realiza:
 
 
 Tecnologias Utilizadas:
--Python
+
+- Python
 - Google Colab (para testes e desenvolvimento)
 
 📁 Execução
@@ -30,16 +31,14 @@ python nome_do_arquivo.py
 Ou simplesmente abra no Google Colab para testes interativos.
 
 ✍️ Exemplo de uso
-less
-Copiar
-Editar
-Digite a temperatura do mês 1 (Janeiro): 35
-Digite a temperatura do mês 2 (Fevereiro): 31
+- Digite a temperatura do mês 1 (Janeiro): 35
+- Digite a temperatura do mês 2 (Fevereiro): 31
+  
 ...
-A Média anual de temperatura: 28.75 °C
-O Mês com a maior temperatura foi: Janeiro, com 35°C
-O Mês com a menor temperatura foi: Julho, com 15°C
-Quantidade de meses escaldantes: 4
+- A Média anual de temperatura: 28.75 °C
+- O Mês com a maior temperatura foi: Janeiro, com 35°C
+- O Mês com a menor temperatura foi: Julho, com 15°C
+- Quantidade de meses escaldantes: 4
 
 
 🤝 Contribuição
