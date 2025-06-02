@@ -15,10 +15,10 @@ Ele realiza:
 
 🔁 Reinício automático em caso de erro de digitação após 3 tentativas
 
-💻 Tecnologias Utilizadas
-Python
 
-Google Colab (para testes e desenvolvimento)
+ Tecnologias Utilizadas:
+-Python
+- Google Colab (para testes e desenvolvimento)
 
 📁 Execução
 Para rodar o programa:
@@ -40,6 +40,8 @@ A Média anual de temperatura: 28.75 °C
 O Mês com a maior temperatura foi: Janeiro, com 35°C
 O Mês com a menor temperatura foi: Julho, com 15°C
 Quantidade de meses escaldantes: 4
+
+
 🤝 Contribuição
 O objetivo é aperfeiçoar esse modelo para aplicações estatísticas.
 Se quiser sugerir melhorias ou colaborar com o código, será muito bem-vindo!
